@@ -1,4 +1,6 @@
-# 参考 https://mp.weixin.qq.com/s/ZllvtpGfkLrcUBKZDtdoTA
+#coding=utf-8
+# 参考 矩阵视角下的Transformer详解（附代码）
+# https://mp.weixin.qq.com/s/ZllvtpGfkLrcUBKZDtdoTA
 import torch
 import torch.nn as nn
 import os
